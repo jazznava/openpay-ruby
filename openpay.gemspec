@@ -9,9 +9,9 @@ Gem::Specification.new do |spec|
   spec.version       = Openpay::VERSION
   spec.authors       = ["Openpay","ronnie_bermejo"]
   spec.email         =  ["hola@openpay.mx"]
-  spec.description   = %q{ruby client for Openpay API services (version 3.0.0). Is a copy from the original Openpay gem but the version 3 there is no published yet}
+  spec.description   = %q{ruby client for Openpay API services (version 3.0.0). Is a copy from the original Openpay gem but the version 3 there is no published yet, in this version is enable the use for different countries.}
   spec.summary       = %q{ruby api for openpay resources}
-  spec.homepage      = "http://openpay.mx/"
+  spec.homepage      = "https://github.com/jazznava/openpay-ruby"
   spec.license       = "Apache-2.0"
 
   spec.files         = `git ls-files`.split($/)
@@ -27,4 +27,5 @@ Gem::Specification.new do |spec|
   spec.add_development_dependency 'json_spec'
   spec.post_install_message = 'Thanks for installing openpay. Enjoy!'
 
+  spec.required_ruby_version     = '>= 2.1.0'
 end

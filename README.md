@@ -1,8 +1,9 @@
-![Openpay Ruby](https://www.openpay.mx/img/github/ruby.jpg)
+# Openpay Ruby
+This is a copy of the original gem [openpay](https://github.com/open-pay/openpay-ruby) but the version 3 is not released yet, in this version is enable the use for different countries, I've tested some functionalities and it works fine, be careful with its use.
 
-[![Build Status](https://travis-ci.org/open-pay/openpay-ruby.png?branch=master)](https://travis-ci.org/open-pay/openpay-ruby)
-
-[![Gem Version](https://badge.fury.io/rb/openpay.svg)](http://badge.fury.io/rb/openpay)
+[![Version         ][rubygems_badge]][rubygems]
+[![Travis CI       ][travis_badge]][travis]
+[![Coverage        ][coverage_badge]][coverage]
 
 # Openpay México
 
