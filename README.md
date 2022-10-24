@@ -1939,47 +1939,5 @@ For more use cases take a look at the *test/spec* folder
 
 [rubygems_badge]: https://badge.fury.io/rb/openpay_copemx.svg
 [travis_badge]: https://travis-ci.org/jazznava/openpay-ruby.svg?branch=master
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+[rubygems]: https://rubygems.org/gems/openpay_copemx
+[travis]: https://travis-ci.org/jazznava/openpay-ruby
