@@ -3,7 +3,6 @@ This is a copy of the original gem [openpay](https://github.com/open-pay/openpay
 
 [![Version         ][rubygems_badge]][rubygems]
 [![Travis CI       ][travis_badge]][travis]
-[![Coverage        ][coverage_badge]][coverage]
 
 # Openpay México
 
@@ -1938,7 +1937,8 @@ For more use cases take a look at the *test/spec* folder
 
 1. http://docs.openpay.mx/
 
-
+[rubygems_badge]: https://badge.fury.io/rb/openpay_copemx.svg
+[travis_badge]: https://travis-ci.org/jazznava/openpay-ruby.svg?branch=master
 
 
 
